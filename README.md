@@ -1,7 +1,7 @@
 # DID-Creation Tool
 
 ## Info
-This tool can run either on Windows x64 or Linux x64 Systems
+This tool can run on either Windows x64 or Linux x64 Systems and requires the Indy SDK to be installed.
 
 ## Preparation
 1. Clone Repo
