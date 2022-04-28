@@ -11,6 +11,12 @@ https://github.com/hyperledger/indy-sdk#installing-the-sdk
 
 3. Start Tool
 
+### OR
+Use [Dockerfile](./Docker/Dockerfile):
+1. docker build -t didcreation .
+
+2. docker run -it didcreation ./didcreation/Linux_x64/DIDCreation
+
 ## Create a DID
 To create a DID simply start the tool and enter your seed.
 
